@@ -6,7 +6,7 @@ A robust RESTful API for managing tasks, built with Node.js, Express, MongoDB, a
 - User authentication with JWT
 - CRUD operations for tasks
 - Task filtering, sorting, and pagination
-- Redis caching for improved performance
+- Redis caching for improved performance (Used in memory caching as a fallback)
 - Comprehensive test suite
 - Priority Queue Scheduling
 
